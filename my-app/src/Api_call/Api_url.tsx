@@ -1,0 +1,1 @@
+export const Api_url = "http://c919-172-104-206-163.ngrok.io/v1/openapi/"

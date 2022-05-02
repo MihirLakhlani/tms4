@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihirlakhlani2000@gmail.com",
+      "phone": "7698966836",
+      "password": "fygj",
+      "designation": "Front End",
+      "id": 1
+    },
+    {
+      "firstname": "mihir2",
+      "lastname": "lakhlani2",
+      "email": "test@tgmail.com",
+      "phone": "76576576",
+      "password": "dfaeg",
+      "designation": "Back End",
+      "id": 2
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihirlakhlani2000@gmail.com",
+      "phone": "7698966836",
+      "password": "564",
+      "designation": "Front End",
+      "id": 3
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "designation": "",
+      "id": 4
+    }
+  ],
+  "project": [
+    {
+      "startdate": "2000-05-12",
+      "enddate": "2000-05-25",
+      "projectname": "tms",
+      "description": "Last Task",
+      "clientname": "Mihir",
+      "projectrate": "70",
+      "projectpriority": "Medium",
+      "members": "",
+      "id": 1
+    },
+    {
+      "startdate": "",
+      "enddate": "",
+      "projectname": "",
+      "description": "",
+      "clientname": "",
+      "projectrate": "",
+      "projectpriority": "",
+      "members": "",
+      "id": 2
+    },
+    {
+      "startdate": "",
+      "enddate": "",
+      "projectname": "",
+      "description": "",
+      "clientname": "",
+      "projectrate": "",
+      "projectpriority": "",
+      "members": "",
+      "id": 3
+    },
+    {
+      "startdate": "2000-05-12",
+      "enddate": "2000-05-25",
+      "projectname": "Task Management System",
+      "description": "xyz",
+      "clientname": "thinkbiz",
+      "projectrate": "2000",
+      "projectpriority": "Low",
+      "members": "",
+      "projectstatus": "In-Active",
+      "id": 4
+    },
+    {
+      "startdate": "2000-05-25",
+      "enddate": "2000-05-12",
+      "projectname": "thinkbiz",
+      "description": "xyz",
+      "clientname": "thinkbiz",
+      "projectrate": "20",
+      "projectpriority": "Low",
+      "members": "",
+      "projectstatus": "In-Active",
+      "id": 5
+    },
+    {
+      "startdate": "",
+      "enddate": "",
+      "projectname": "",
+      "description": "",
+      "clientname": "",
+      "projectrate": "",
+      "projectpriority": "",
+      "members": "",
+      "projectstatus": "Active",
+      "id": 6
+    },
+    {
+      "startdate": "",
+      "enddate": "",
+      "projectname": "",
+      "description": "",
+      "clientname": "",
+      "projectrate": "",
+      "projectpriority": "",
+      "members": "",
+      "projectstatus": "",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
